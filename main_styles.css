@@ -8,7 +8,7 @@ body, html {
 /* HERO IMAGEN */
 .hero-image {
 
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 1.2)), url("img/moon.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 1)), url("img/moon.jpg");
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
